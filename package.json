@@ -1,7 +1,7 @@
 {
   "name": "covid19-saitama",
   "version": "1.0.0",
-  "description": "埼玉県 新型コロナウイルス感染症対策サイト",
+  "description": "埼玉県所沢市 新型コロナウイルス感染症対策サイト",
   "author": "Code for TODA",
   "private": true,
   "engines": {
